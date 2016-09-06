@@ -1,0 +1,22 @@
+{
+  "name": "object-sifter",
+  "version": "0.0.1",
+  "description": "Filter,Sifter Javascript Objects's Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "filter",
+    "sifter"
+  ],
+  "author": "Kenshinhu",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  },
+  "devDependencies": {
+    "joi": "^9.0.4",
+    "mocha": "^3.0.2"
+  }
+}
